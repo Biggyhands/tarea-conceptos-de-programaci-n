@@ -1,0 +1,3 @@
+TipoDocumentoVendedor;cc
+NúmeroDocumentoVendedor;1045755980
+1;200
